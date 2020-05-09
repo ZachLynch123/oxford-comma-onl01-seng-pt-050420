@@ -1,4 +1,4 @@
-\def oxford_comma(array)
+def oxford_comma(array)
   
   phrase = ""
   if array.size == 1 
