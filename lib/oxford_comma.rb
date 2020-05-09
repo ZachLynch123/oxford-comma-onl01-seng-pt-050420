@@ -17,8 +17,8 @@ def oxford_comma(array)
         phrase = phrase + "and #{str}"
         puts phrase
       end
-      return phrase
     end
+    return phrase
   end
 end
  oxford_comma(["fiddleheads","okra","kohlrabi"])
